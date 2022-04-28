@@ -1,0 +1,52 @@
+#include <stdio.h> 
+#include <stdlib.h> 
+#include <math.h> 
+#include <locale.h>
+
+int main() {
+
+	setlocale(LC_ALL, "portuguese");
+
+   float PV, taxa; //PV: valor presente
+    //taxa de juros: em %
+   int n, i;
+ 	//n: número de parcelas
+ 	//i: variável de controle
+
+ 	//dados do fin. Price
+	float PMT; //PMT: valor da prestação fixa
+
+ 	//dados do fin. SAC
+	 float sac_amortiz;
+    
+    printf("Entre com os valores do financiamento\n\n");
+ 	printf("Valor financiado R$ "); 
+	scanf("%f", &PV);
+	printf("Quantidade de parcelas: "); 
+	scanf("%i", &n);
+	printf("Taxa de juros ao mês: "); 
+	scanf("%f", &taxa);
+ 	
+	
+	float valorJuros = 0;
+	float amortizacao = 0;
+	float saldoDevedor = PV;
+	 
+	
+	taxa = taxa / 100; // converter valor inteiro em decimal
+
+ 	//calcula os dados do fin. tabela Price
+ 	PMT = PV *((taxa*pow(1+taxa, n))/(pow(1+taxa, n)-1));
+
+ 	
+ 
+ 		for (i = 0; i <= n; i++) {
+ 			printf("\n\nParcela %i |Prestação R$ %.2f |Juros R$ %.2f |Amortização R$ %.2f |Saldo Devedor R$ %.2f", i, PMT,  valorJuros, amortizacao, saldoDevedor);
+			valorJuros = saldoDevedor * taxa;
+ 			amortizacao = PMT - valorJuros;
+ 			saldoDevedor -= amortizacao;
+		}
+
+
+  	return 0;
+}

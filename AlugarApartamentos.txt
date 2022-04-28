@@ -1,0 +1,30 @@
+APARTAMENTO	ALUGAR	APA6550
+sao+paulo		jundiai		santa+aparecida		sao+camilo		656		600,00
+350,00
+2	2	1	1	2	3	0	12		
+otimo+apart
+
+APARTAMENTO	ALUGAR	APA6551
+Sao+Paulo		Jundiai		Vila+Cristo		Av+Ana+Marques		165		1000,00
+300,00
+2	1	1	1	1	2	1	2		
+Apartamento+localizado+perto+da+marginal+jundiai+com+saida+para+outras+cidades.
+
+APARTAMENTO	ALUGAR	APA6552
+Sao+Paulo		Jundiai		Nova+Jundiainopolis		Joao+Carbonari+Junior		144		1300,00
+300,00
+2	1	1	1	1	7	1	5		
+Apartamento+localizado+proximo+a+rodovia+anhanguera.
+
+APARTAMENTO	ALUGAR	APA6553
+Sao+Paulo		Jundiai+		Malota		Rua+das+Mangueiras		400		2000,00
+300,00
+3	2	1	1	2	6	2	4		
+Apartamento+localizado+proximo+ao+centro.+3+quartos+send+1+suite,+sacada,+area+para+crian‡a,+piscina+e+quadra
+
+APARTAMENTO	ALUGAR	APA6553
+Sao+Paulo		Jundiai+		Malota		Rua+das+Mangueiras		400		2000,00
+300,00
+3	2	1	1	2	6	2	4		
+Apartamento+localizado+proximo+ao+centro.+3+quartos+send+1+suite,+sacada,+area+para+crian‡a,+piscina+e+quadra
+

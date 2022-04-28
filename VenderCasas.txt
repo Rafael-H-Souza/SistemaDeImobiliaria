@@ -1,0 +1,9 @@
+CASA	VENDA	CAV75588
+sao+paulo	varzea+paulista		jardim+ameria+II		irere		128		320000,00
+3	2	1	1	3	
+casa+de+facil+acesso+localizado+perto+de+escolas+perto+da+avenida+marginal+e+centro+da+cidade
+CASA	VENDA	CAV24482
+SÃO+PAULO		SÃO+PAULO		LAPA		AVENIDA+JUNDIAÍ		123		351000,00
+3	2	1	1	1	
+CASA+COM+OTIMA+LOCALIZAÇÃO,+PROXIMO+A+FARMÁCIAS,+HIPER+MERCADOS+E+COM+FACIL+ACESSO+A+MARGINAL+PINHEIROS.	
+

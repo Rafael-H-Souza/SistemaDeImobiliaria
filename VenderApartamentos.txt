@@ -1,0 +1,36 @@
+ APARTAMENTO	VENDA	APV27499
+sao+paulo		jundiai		colonia		joao+carlos+santana		584		500000,00
+320,00
+3	1	1	1	2	6	2	
+
+Apartamento+esta+localizado+perto+da+rodivia+xxxx+acesso+para+o+centro+da+cidade+comercio+a+pouco+minutos
+
+ APARTAMENTO	VENDA	APV25762
+sao+paulo		jundiai		jundiainopolis		joao+carbonari		854		300000,00
+400,00
+2	1	1	1	1	3	1	
+apartamento+em+otimos+estado,+localizado+em+saidas+de+jundiai+com+acesso+as+rodovias+principais	
+
+APARTAMENTO	VENDA	APV25125
+sao+paulo		jundiai		jardim+paulista		avenida+jundiai		845		800000,00
+400,00
+3	2	1	1	2	6	2	
+apartamento+localizado+no+centro+da+cidade,+acesso+para+todas+rodovias	
+
+APARTAMENTO	VENDA	APV28969
+Sao+Paulo		Sao+Paulo		Liberdade		Santa+Luzia		584		315000,00
+370,00
+3	1	1	1	1	9	2	
+Apt+com+58m2,+sacada,+garagem+coberta,+a+50m+do+Metro+Liberdade.	
+
+APARTAMENTO	VENDA	APV22547
+Sao+Paulo+		Jundiai		Agapeama		Jose+Gaspar		258		250000,00
+250,00
+2	1	1	1	1	6	1	
+Apartamento+proximo+a+mercados+e+farmacias,+garagem+coberta.+	
+
+APARTAMENTO	VENDA	APV25999
+SAO+PAULO		JUNDIAI		AGAPEAMA		JOSE+PAULO		587		600000,00
+250,00
+3	2	1	1	2	0	9	
+APARTAMENTO+GRANDE+

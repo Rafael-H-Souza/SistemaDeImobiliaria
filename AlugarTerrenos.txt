@@ -1,0 +1,28 @@
+TERRENO	ALUGAR	TEA7410
+Sao+Paulo		Sao+Paulo		Brooklin		Conceicao+de+Monte+Alegre		155		6000,00
+5		
+Excelente+terreno+com+30m2+x+22m2.+Otima+localizacao.	
+
+TERRENO	ALUGAR	TEA7411
+Sao+Paulo		Sao+Paulo		Vila+Sonia		David+Matarasso+		584		3300,00
+4		
+Terreno+com+com+495m2,+localizado+proximo+ao+Metro+Vila+Sonia.	
+
+TERRENO	ALUGAR	TEA7412
+Sao+Paulo		Jundiai		Parque+Centenario		Joao+Bueno		654		4200,00
+64		
+	
+
+TERRENO	ALUGAR	TEA7413
+Sao+Paulo		Jundiai		Parque+Centenario		Joao+Bueno		156		4200,00
+5		
+Terreno+plano+com+galpao+de+587m2,+murado.+Facil+acesso+a+rodovias.+	
+
+TERRENO	ALUGAR	TEA7414
+Sao+Paulo		Campinas		Cambui		Santa+Cruz		369		9200,00
+10		
+Terreno+com+4000m2,+proximo+a+rodovia.TERRENO	ALUGAR	TEA30571
+são+paulo		jundiai		vila+cristo		santa+maria		5874		600000,00
+2		
+lindo	
+

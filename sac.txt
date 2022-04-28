@@ -1,0 +1,50 @@
+#include <stdio.h> 
+#include <stdlib.h> 
+#include <math.h> 
+#include <locale.h>
+
+int main() {
+
+	setlocale(LC_ALL, "");
+
+   float valorFinanciado, taxa, sacAmortiz;
+    
+	//n: número de parcelas
+   //i: variável de controle
+   int n, i;
+   
+
+    
+    
+	printf("Entre com os valores do financiamento\n\n");
+ 	printf("Valor financiado R$ "); 
+	scanf("%f", &valorFinanciado);
+	printf("Quantidade de parcelas: "); 
+	scanf("%d", &n);
+	printf("Taxa de juros ao mês: "); 
+	scanf("%f", &taxa);
+ 	
+ 	
+	
+	float valorJuros = 0;
+	float amortizacao = 0;
+	float saldoDevedor = valorFinanciado;
+	
+	 
+	
+	taxa = taxa / 100; //converter valor inteiro em decimal
+
+ 	float parcela = 0;
+ 
+ 		for (i = 0; i <= n; i++) {
+ 			printf("\n\nParcela %i |Prestação R$ %.2f |Juros R$ %.2f |Amortização R$ %.2f |Saldo Devedor R$ %.2f", i, parcela,  valorJuros, sacAmortiz, saldoDevedor);
+			valorJuros = saldoDevedor * taxa;
+ 			sacAmortiz = valorFinanciado / n;
+ 			parcela =  valorJuros + sacAmortiz; 
+ 			saldoDevedor -= sacAmortiz ;
+ 	
+	    }
+
+
+ return 0;
+}

@@ -1,0 +1,42 @@
+GALPÃO	ALUGAR	GAA4581
+Sao+Paulo		Jundiai		Centro		Zacaria+de+Goes		954		2500,00
+400,00
+4		
+Galpao+com+250+m2,+2+banheiros,+portao+automatico,+espa‡o+para+estacionar+at‚+3+carro.+
+
+GALPÃO	ALUGAR	GAA4582
+Sao+Paulo		Valinhos+		Jardim+Sao+Luiz		Antonio+de+Campos		343		8000,00
+600,00
+5		
+Galpao+de+5000+m2,+espa‡o+para+5+carros,+proximo+a+rodovias.
+
+GALPÃO	ALUGAR	GAA4583
+Sao+Paulo+		Varzea+Paulista		Jardim+Paulista+		Av+Pacaembu+		715		4000,00
+300,00
+2		
+Galpao+de+500+m2,com+camara+fria+e+patio+de+150+m2,+proximo+a+Marginal.
+
+GALPÃO	ALUGAR	GAA4584
+Sao+Paulo		Jundiai		Vila+Arens		Frei+Caneca		584		7000,00
+350,00
+5		
+Galpao+de+150+m2,+amplo,+com+possibilidade+de+atender+varios+segmentos,+com+3+banheiros,+espa‡o+para+refeitorio+e+recep‡ao.
+
+GALPÃO	ALUGAR	GAA4585
+Sao+Paulo		Vinhedo		Santa+Rosa		Benedito+Storani		365		10000,00
+500,00
+5		
+Galpao+de+1000+m2,+otima+saida+para+rodovias,+galpao+com+piso+para+capacidade+para+5+toneladas/m2.
+
+GALPÃO	ALUGAR	GAA4585
+Sao+Paulo		Vinhedo		Santa+Rosa		Benedito+Storani		365		10000,00
+500,00
+5		
+Galpao+de+1000+m2,+otima+saida+para+rodovias,+galpao+com+piso+para+capacidade+para+5+toneladas/m2.
+
+GALPÃO	ALUGAR	GAA4585
+Sao+Paulo		Vinhedo		Santa+Rosa		Benedito+Storani		365		10000,00
+500,00
+5		
+Galpao+de+1000+m2,+otima+saida+para+rodovias,+galpao+com+piso+para+capacidade+para+5+toneladas/m2.
+
